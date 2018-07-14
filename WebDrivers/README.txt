@@ -1,0 +1,1 @@
+﻿When the project needs to update the driver, just copy the driver here and set to copy always to output directory
